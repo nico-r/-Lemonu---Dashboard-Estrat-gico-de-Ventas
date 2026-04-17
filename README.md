@@ -27,7 +27,6 @@ Para este proyecto, se implementó una arquitectura de base de datos robusta sig
 ## 📂 Contenido del Repositorio
 * `script_db_lemonu.sql`: Contiene la creación de tablas, inserción de datos y la lógica de la vista analítica.
 * `Lemonu_Analytics_Dashboard.pbix`: Archivo fuente de Power BI para explorar el reporte.
-* `preview_dashboard.png`: Captura de pantalla del resultado final.
 
 ---
 **Desarrollado por un apasionado por la Ciencia de Datos y la Tecnología.**
