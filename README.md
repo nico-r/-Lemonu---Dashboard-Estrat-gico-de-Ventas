@@ -29,4 +29,3 @@ Para este proyecto, se implementó una arquitectura de base de datos robusta sig
 * `Lemonu_Analytics_Dashboard.pbix`: Archivo fuente de Power BI para explorar el reporte.
 
 ---
-**Desarrollado por un apasionado por la Ciencia de Datos y la Tecnología.**
